@@ -13,8 +13,6 @@ function findMissingNumber(nums) {
 //For the purpose of user debugging.
 findMissingNumber([3, 0, 1]);
 
-module.exports = findMissingNumber;
-
 // findMissingNumber([3, 0, 1]);           // 2
 // findMissingNumber([0, 1]);              // 2
 // findMissingNumber([9,6,4,2,3,5,7,0,1]);  // 8
